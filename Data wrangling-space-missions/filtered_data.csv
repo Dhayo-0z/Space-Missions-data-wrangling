@@ -1,0 +1,392 @@
+,Unnamed: 0,Unnamed: 0.1,Company Name,Location,Datum,Detail,Status Rocket, Rocket,Status Mission
+0,202,202,Landspace,"Site 95, Jiuquan Satellite Launch Center, China","Sat Oct 27, 2018 08:00 UTC",ZhuQue-1 | CCTV Future-1,StatusRetired,0,Failure
+1,208,208,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Thu Oct 11, 2018 08:40 UTC",Soyuz FG | Soyuz MS-10 (56S),StatusRetired,0,Failure
+2,392,392,Roscosmos,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Thu Dec 01, 2016 14:52 UTC",Soyuz U | Progress MS-04,StatusRetired,0,Failure
+3,413,413,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Thu Sep 01, 2016 13:07 UTC",Falcon 9 Block 3 | AMOS-6,StatusRetired,62,Prelaunch Failure
+4,499,499,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Sun Jun 28, 2015 14:21 UTC",Falcon 9 v1.1 | CRS-7,StatusRetired,56.5,Failure
+5,534,534,Northrop,"LP-0A, Wallops Flight Facility, Virginia, USA","Tue Oct 28, 2014 22:22 UTC",Antares 130 | CRS Orb-3,StatusRetired,80,Failure
+6,621,621,VKS RF,"Site 133/3, Plesetsk Cosmodrome, Russia","Tue Jan 15, 2013 16:24 UTC",Rokot/Briz KM | Cosmos 2482 to 2484,StatusRetired,41.8,Partial Failure
+7,629,629,SpaceX,"SLC-40, Cape Canaveral AFS, Florida, USA","Mon Oct 08, 2012 00:35 UTC",Falcon 9 v1.0 | CRS-1,StatusRetired,59.5,Partial Failure
+8,698,698,VKS RF,"Site 133/3, Plesetsk Cosmodrome, Russia","Tue Feb 01, 2011 14:00 UTC",Rokot/Briz KM | Cosmos 2470,StatusRetired,41.8,Partial Failure
+9,703,703,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Sat Dec 25, 2010 10:34 UTC",GSLV Mk I | GSAT-5P,StatusRetired,47,Failure
+10,721,721,KARI,"LC-1, Naro Space Center, South Korea","Thu Jun 10, 2010 08:01 UTC",Naro-1 | STSAT-2B,StatusRetired,0,Failure
+11,757,757,KARI,"LC-1, Naro Space Center, South Korea","Tue Aug 25, 2009 08:00 UTC",Naro-1 | STSAT-2A,StatusRetired,0,Failure
+12,775,775,KCST,"Pad 1, Tonghae Satellite Launching Ground, North Korea","Sun Apr 05, 2009 02:20 UTC",Unha-2 | Kwangmyngsng-2,StatusRetired,0,Failure
+13,806,806,ISA,"Imam Khomeini Spaceport, Semnan Space Center, Iran","Sun Aug 17, 2008",Safir-1 | Unknown Payload,StatusRetired,0,Failure
+14,808,808,SpaceX,"Omelek Island, Ronald Reagan Ballistic Missile Defense Test Site, Marshall Islands, USA","Sun Aug 03, 2008 03:34 UTC",Falcon 1 | Flight 3,StatusRetired,7,Failure
+15,856,856,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Sun Sep 02, 2007 12:51 UTC",GSLV Mk I | INSAT-4CR,StatusRetired,47,Partial Failure
+16,879,879,SpaceX,"Omelek Island, Ronald Reagan Ballistic Missile Defense Test Site, Marshall Islands, USA","Wed Mar 21, 2007 01:10 UTC",Falcon 1 | DemoSat,StatusRetired,7,Failure
+17,910,910,Kosmotras,"Site 109/95, Baikonur Cosmodrome, Kazakhstan","Wed Jul 26, 2006 19:43 UTC",Dnepr | BelKa 1 & Others,StatusRetired,29,Failure
+18,913,913,ISRO,"Second Launch Pad, Satish Dhawan Space Centre, India","Mon Jul 10, 2006 12:08 UTC",GSLV Mk I | INSAT-4C,StatusRetired,47,Failure
+19,929,929,SpaceX,"Omelek Island, Ronald Reagan Ballistic Missile Defense Test Site, Marshall Islands, USA","Fri Mar 24, 2006 21:30 UTC",Falcon 1 | FalconSat-2,StatusRetired,7,Failure
+20,944,944,Eurockot,"Site 133/3, Plesetsk Cosmodrome, Russia","Sat Oct 08, 2005 15:02 UTC",Rokot/Briz KM | CryoSat-1,StatusRetired,41.8,Failure
+21,957,957,SRC,"K-496 Submarine, Barents Sea Launch Area, Barents Sea","Tue Jun 21, 2005 19:46 UTC",Volna | Cosmos 1,StatusRetired,0,Failure
+22,958,958,VKS RF,"Site 16/2, Plesetsk Cosmodrome, Russia","Tue Jun 21, 2005 00:48 UTC",Molniya-M /Block ML | Molniya-3K n†­175,StatusRetired,0,Failure
+23,973,973,VKS RF,"Site 32/2, Plesetsk Cosmodrome, Russia","Fri Dec 24, 2004 12:00 UTC",Tsyklon-3 | Sich 1M & Micron 1,StatusRetired,0,Partial Failure
+24,987,987,IAI,"Pad 1, Palmachim Airbase, Israel","Mon Sep 06, 2004",Shavit-1 | Ofek-6,StatusRetired,0,Failure
+25,1018,1018,MHI,"LA-Y1, Tanegashima Space Center, Japan","Sat Nov 29, 2003 04:33 UTC","H-IIA 2024 | IGS-Optical (2), IGS-Radar (2)",StatusRetired,0,Failure
+26,1029,1029,CASIC,"Taiyuan Satellite Launch Center, China","Tue Sep 16, 2003",Kaituozhe 1 | PS 2,StatusRetired,0,Failure
+27,1062,1062,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Thu Jan 16, 2003 15:39 UTC",Space Shuttle Columbia | STS-107,StatusRetired,450,Failure
+28,1079,1079,CASIC,"Taiyuan Satellite Launch Center, China","Sun Sep 15, 2002",Kaituozhe 1 | PS 1,StatusRetired,0,Failure
+29,1136,1136,Arianespace,"ELA-3, Guiana Space Centre, French Guiana, France","Thu Jul 12, 2001 21:58 UTC",Ariane 5 G | Artemis & BSAT-2b,StatusRetired,0,Partial Failure
+30,1145,1145,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Wed Apr 18, 2001 10:13 UTC",GSLV Mk I | GSAT-1,StatusRetired,47,Partial Failure
+31,1157,1157,VKS RF,"Site 32/1, Plesetsk Cosmodrome, Russia","Wed Dec 27, 2000 18:56 UTC",Tsyklon-3 | Cosmos 2377 to 2379 & Gonets 7 to 9,StatusRetired,0,Failure
+32,1165,1165,VKS RF,"Site 132/1, Plesetsk Cosmodrome, Russia","Mon Nov 20, 2000 23:00 UTC",Cosmos-3M (11K65M) | QuickBird-1,StatusRetired,0,Failure
+33,1207,1207,ISAS,"Mu Pad, Uchinoura Space Center, Japan","Thu Feb 10, 2000 01:30 UTC",Mu-V / M-24 | Astro E,StatusRetired,0,Failure
+34,1227,1227,MHI,"LA-Y1, Tanegashima Space Center, Japan","Mon Nov 15, 1999 07:29 UTC",H-IIS | Himawari 6,StatusRetired,0,Failure
+35,1254,1254,Boeing,"SLC-17B, Cape Canaveral AFS, Florida, USA","Wed May 05, 1999 01:00 UTC",Delta III 8930 | Orion 3,StatusRetired,0,Failure
+36,1255,1255,Lockheed,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Apr 30, 1999 16:30 UTC",Titan IV(401)B | Milstar DFS-3m,StatusRetired,0,Failure
+37,1257,1257,Lockheed,"SLC-6, Vandenberg AFB, California, USA","Tue Apr 27, 1999 18:22 UTC",Athena II | Ikonos,StatusRetired,0,Failure
+38,1261,1261,Lockheed,"SLC-41, Cape Canaveral AFS, Florida, USA","Fri Apr 09, 1999 17:01 UTC",Titan IV(402)B | DSP,StatusRetired,0,Failure
+39,1292,1292,VKS RF,"Site 45/1, Baikonur Cosmodrome, Kazakhstan","Wed Sep 09, 1998 20:29 UTC",Zenit-2 | Globalstar Satellites,StatusRetired,0,Failure
+40,1294,1294,KCST,"Pad 1, Tonghae Satellite Launching Ground, North Korea","Mon Aug 31, 1998 03:07 UTC",Taepodong-1 | Kwangmyngsng 1,StatusRetired,0,Failure
+41,1295,1295,Boeing,"SLC-17B, Cape Canaveral AFS, Florida, USA","Thu Aug 27, 1998 01:17 UTC",Delta III 8930 | Galaxy 10,StatusRetired,0,Failure
+42,1300,1300,Lockheed,"SLC-41, Cape Canaveral AFS, Florida, USA","Wed Aug 12, 1998 11:30 UTC",Titan IV(401)A | NROL-7 (Mercury),StatusRetired,0,Failure
+43,1309,1309,VKS RF,"Site 32/1, Plesetsk Cosmodrome, Russia","Mon Jun 15, 1998 22:58 UTC",Tsyklon-3 | Cosmos 2352 to 2357,StatusRetired,0,Partial Failure
+44,1329,1329,MHI,"LA-Y1, Tanegashima Space Center, Japan","Sat Feb 21, 1998 07:55 UTC",H-II | Kakehashi,StatusRetired,0,Partial Failure
+45,1335,1335,IAI,"Pad 1, Palmachim Airbase, Israel","Thu Jan 22, 1998",Shavit | Ofek-4,StatusRetired,0,Failure
+46,1339,1339,ILS,"Site 81/23, Baikonur Cosmodrome, Kazakhstan","Wed Dec 24, 1997 23:19 UTC",Proton K/Block DM-3 | PAS-22,StatusRetired,0,Partial Failure
+47,1355,1355,ESA,"ELA-3, Guiana Space Centre, French Guiana, France","Thu Oct 30, 1997 13:43 UTC","Ariane 5 G | MaqSat-H, TEAMSAT, MaqSat-B, YES",StatusRetired,0,Partial Failure
+48,1362,1362,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Mon Sep 29, 1997 10:20 UTC",PSLV-G | IRS-1D,StatusRetired,25,Partial Failure
+49,1387,1387,VKS RF,"Site 45/1, Baikonur Cosmodrome, Kazakhstan","Tue May 20, 1997 07:07 UTC",Zenit-2 | Tselina-2 n†­19,StatusRetired,0,Failure
+50,1407,1407,Boeing,"SLC-17A, Cape Canaveral AFS, Florida, USA","Fri Jan 17, 1997 16:28 UTC",Delta II 7925 | GPS IIR-1,StatusRetired,0,Failure
+51,1429,1429,CASC,"LC-3, Xichang Satellite Launch Center, China","Sun Aug 18, 1996 10:27 UTC",Long March 3 | Chinasat-7,StatusRetired,0,Partial Failure
+52,1441,1441,ESA,"ELA-3, Guiana Space Centre, French Guiana, France","Tue Jun 04, 1996 12:34 UTC",Ariane 5 G | Cluster,StatusRetired,0,Failure
+53,1483,1483,EER,"LP-0A, Wallops Flight Facility, Virginia, USA","Mon Oct 23, 1995 22:03 UTC",Conestoga-1620 | METEOR,StatusRetired,20,Failure
+54,1487,1487,VKS RF,"Site 132/1, Plesetsk Cosmodrome, Russia","Fri Oct 06, 1995 03:23 UTC",Cosmos-3M (11K65M) | Cosmos 2321,StatusRetired,0,Partial Failure
+55,1490,1490,Boeing,"SLC-17B, Cape Canaveral AFS, Florida, USA","Tue Sep 05, 1995 11:10 UTC",Delta II 7925 | Koreasat 1,StatusRetired,0,Partial Failure
+56,1494,1494,Lockheed,"SLC-6, Vandenberg AFB, California, USA","Tue Aug 15, 1995 22:30 UTC",Athena I | GemStar 1,StatusRetired,0,Failure
+57,1517,1517,MITT,"Site 158, Plesetsk Cosmodrome, Russia","Tue Mar 28, 1995 10:00 UTC","Start | EKA-2, Gurwin & UNAMSAT A",StatusRetired,0,Failure
+58,1526,1526,CASC,"LC-2, Xichang Satellite Launch Center, China","Wed Jan 25, 1995 22:40 UTC",Long March 2E | Apstar 2,StatusRetired,0,Failure
+59,1528,1528,ISAS,"Mu Pad, Uchinoura Space Center, Japan","Sun Jan 15, 1995 13:45 UTC",Mu-III S2 | EXPRESS,StatusRetired,0,Partial Failure
+60,1536,1536,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France","Thu Dec 01, 1994 22:57 UTC",Ariane 42P | Panamsat-3,StatusRetired,0,Failure
+61,1573,1573,VKS RF,"Site 32/2, Plesetsk Cosmodrome, Russia","Wed May 25, 1994 10:14 UTC",Tsyklon-3 | Cosmos 2281,StatusRetired,0,Failure
+62,1574,1574,Northrop,"NB-52B Carrier, Edwards AFB, California, USA","Thu May 19, 1994 17:03 UTC",Pegasus/HAPS | STEP-2,StatusRetired,40,Partial Failure
+63,1593,1593,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France","Mon Jan 24, 1994 21:37 UTC","Ariane 44LP | Eutelsat 2F5, Turksat 1A",StatusRetired,0,Failure
+64,1607,1607,Martin Marietta,"SLC-4W, Vandenberg AFB, California, USA","Tue Oct 05, 1993 17:56 UTC",Titan II(23)G | Landsat 6,StatusRetired,35,Failure
+65,1609,1609,ISRO,"First Launch Pad, Satish Dhawan Space Centre, India","Mon Sep 20, 1993 05:12 UTC",PSLV-G | IRS-P1,StatusRetired,25,Failure
+66,1619,1619,Martin Marietta,"SLC-4E, Vandenberg AFB, California, USA","Mon Aug 02, 1993 19:59 UTC",Titan IV(403)A | SLDCOM & 3x NOSS,StatusRetired,0,Failure
+67,1644,1644,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA","Thu Mar 25, 1993 21:38 UTC",Atlas I | UHF F1,StatusRetired,0,Failure
+68,1658,1658,CASC,"LC-2, Xichang Satellite Launch Center, China","Mon Dec 21, 1992 11:21 UTC",Long March 2E | Optus-B2,StatusRetired,0,Failure
+69,1680,1680,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA","Sat Aug 22, 1992 22:40 UTC",Atlas I | Galaxy 1R,StatusRetired,0,Failure
+70,1714,1714,RVSN USSR,"Site 45/1, Baikonur Cosmodrome, Kazakhstan","Wed Feb 05, 1992 18:14 UTC",Zenit-2 | Tselina-2 n†­10,StatusRetired,0,Failure
+71,1717,1717,CASC,"LC-3, Xichang Satellite Launch Center, China","Sat Dec 28, 1991 12:00 UTC",Long March 3 | DFH-2A-T5,StatusRetired,0,Partial Failure
+72,1733,1733,RVSN USSR,"Site 45/1, Baikonur Cosmodrome, Kazakhstan","Fri Aug 30, 1991 08:58 UTC",Zenit-2 | Tselina-2 n†­9,StatusRetired,0,Failure
+73,1743,1743,Northrop,"NB-52B Carrier, Edwards AFB, California, USA","Sun Jul 21, 1991 17:33 UTC",Pegasus/HAPS | 7 Microsats,StatusRetired,40,Partial Failure
+74,1746,1746,RVSN USSR,"Site 132/1, Plesetsk Cosmodrome, Russia","Tue Jun 25, 1991 13:20 UTC",Cosmos-3M (11K65M) | Ta??foun n†­59,StatusRetired,0,Failure
+75,1757,1757,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA","Thu Apr 18, 1991 23:30 UTC",Atlas I | Yuri 3H,StatusRetired,0,Failure
+76,1795,1795,RVSN USSR,"Site 45/2, Baikonur Cosmodrome, Kazakhstan","Thu Oct 04, 1990 04:27 UTC",Zenit-2 | Tselina-2 n†­8,StatusRetired,0,Failure
+77,1816,1816,RVSN USSR,"Site 43/3, Plesetsk Cosmodrome, Russia","Thu Jun 21, 1990 20:45 UTC",Molniya-M /Block 2BL | Cosmos 2084,StatusRetired,0,Partial Failure
+78,1837,1837,Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA","Wed Mar 14, 1990 11:52 UTC",Commercial Titan III | Intelsat 603,StatusRetired,136.6,Failure
+79,1841,1841,Arianespace,"ELA-2, Guiana Space Centre, French Guiana, France","Thu Feb 22, 1990 23:17 UTC","Ariane 44L | Superbird-B, BS-2X",StatusRetired,0,Failure
+80,1885,1885,RVSN USSR,"Site 32/2, Plesetsk Cosmodrome, Russia","Fri Jun 09, 1989 10:10 UTC",Tsyklon-3 | Okean 2a,StatusRetired,0,Failure
+81,1889,1889,ISRO,"SLV LP, Satish Dhawan Space Centre, India","Mon May 22, 1989 01:40 UTC",ASLV | SROSS C,StatusRetired,0,Partial Failure
+82,1930,1930,Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Sep 02, 1988 12:05 UTC",Titan 34D | USA-31 (Vortex),StatusRetired,0,Partial Failure
+83,1933,1933,ISRO,"SLV LP, Satish Dhawan Space Centre, India","Sun Jul 31, 1988 09:18 UTC",ASLV | SROSS-B,StatusRetired,0,Failure
+84,2005,2005,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA","Thu Mar 26, 1987 21:22 UTC",Atlas-G Centaur-D1AR | FLTSATCOM-6,StatusRetired,0,Failure
+85,2006,2006,ISRO,"SLV LP, Satish Dhawan Space Centre, India","Tue Mar 24, 1987 06:39 UTC",ASLV | SROSS-A,StatusRetired,0,Failure
+86,2017,2017,RVSN USSR,"Site 132/2, Plesetsk Cosmodrome, Russia","Thu Jan 29, 1987 06:14 UTC",Cosmos-3M (11K65M) | Cosmos 1816,StatusRetired,0,Partial Failure
+87,2040,2040,RVSN USSR,"Site 32/2, Plesetsk Cosmodrome, Russia","Wed Oct 15, 1986 05:24 UTC",Tsyklon-3 | Cosmos 1786 to 1791,StatusRetired,0,Failure
+88,2042,2042,RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia","Fri Oct 03, 1986 13:05 UTC",Molniya-M /Block 2BL | Cosmos 1783,StatusRetired,0,Partial Failure
+89,2055,2055,RVSN USSR,"Site 133/3, Plesetsk Cosmodrome, Russia","Wed Jul 16, 1986 04:21 UTC",Cosmos-3M (11K65M) | Cosmos 1763,StatusRetired,0,Partial Failure
+90,2061,2061,Arianespace,"ELA-1, Guiana Space Centre, French Guiana, France","Sat May 31, 1986 00:53 UTC",Ariane 2 | Intelsat-5A 14,StatusRetired,0,Failure
+91,2066,2066,Martin Marietta,"SLC-4E, Vandenberg AFB, California, USA","Fri Apr 18, 1986 18:45 UTC",Titan 34D | KH-9,StatusRetired,0,Failure
+92,2079,2079,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Tue Jan 28, 1986 16:38 UTC",Space Shuttle Challenger | STS-51-L,StatusRetired,450,Failure
+93,2085,2085,RVSN USSR,"Site 45/1, Baikonur Cosmodrome, Kazakhstan","Sat Dec 28, 1985 09:16 UTC",Zenit-2 | Cosmos 1714,StatusRetired,0,Partial Failure
+94,2097,2097,RVSN USSR,"Site 133/3, Plesetsk Cosmodrome, Russia","Wed Oct 23, 1985 17:24 UTC",Cosmos-3M (11K65M) | Parouss n†­50,StatusRetired,0,Failure
+95,2112,2112,Arianespace,"ELA-1, Guiana Space Centre, French Guiana, France","Thu Sep 12, 1985 23:26 UTC","Ariane 3 | ECS 3, Spacenet 3",StatusRetired,0,Failure
+96,2114,2114,Martin Marietta,"SLC-4E, Vandenberg AFB, California, USA","Wed Aug 28, 1985 21:20 UTC",Titan 34D | KH-11,StatusRetired,0,Failure
+97,2126,2126,RVSN USSR,"Site 45/1, Baikonur Cosmodrome, Kazakhstan","Fri Jun 21, 1985 08:29 UTC",Zenit-2 | EPN 03.0694 n†­2,StatusRetired,0,Failure
+98,2140,2140,RVSN USSR,"Site 45/1, Baikonur Cosmodrome, Kazakhstan","Sat Apr 13, 1985 08:00 UTC",Zenit-2 | EPN 03.0694 n†­1,StatusRetired,0,Failure
+99,2165,2165,RVSN USSR,"Site 32/1, Plesetsk Cosmodrome, Russia","Tue Nov 27, 1984 14:22 UTC",Tsyklon-3 | Meteor-3 n†­1a,StatusRetired,0,Partial Failure
+100,2197,2197,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA","Sat Jun 09, 1984 23:03 UTC",Atlas-G Centaur-D1AR | Intelsat V -509,StatusRetired,0,Failure
+101,2223,2223,CASC,"LC-3, Xichang Satellite Launch Center, China","Sun Jan 29, 1984 12:25 UTC",Long March 3 | STTW 1 (Dong Fang Hong 2),StatusRetired,0,Partial Failure
+102,2290,2290,RVSN USSR,"Site 132/2, Plesetsk Cosmodrome, Russia","Tue Jan 25, 1983 12:00 UTC",Cosmos-3M (11K65M) | Ta??foun n†­32,StatusRetired,0,Failure
+103,2297,2297,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Wed Dec 08, 1982 13:46 UTC",Molniya-M /Block ML | Cosmos 1423,StatusRetired,0,Partial Failure
+104,2298,2298,RVSN USSR,"Site 132/1, Plesetsk Cosmodrome, Russia","Wed Nov 24, 1982 11:00 UTC",Cosmos-3M (11K65M) | Strela-1M satellites,StatusRetired,0,Failure
+105,2310,2310,ESA,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France","Thu Sep 09, 1982 02:12 UTC",Ariane 1 | MARCES-B & Sirio-2,StatusRetired,0,Failure
+106,2325,2325,RVSN USSR,"Site 132/2, Plesetsk Cosmodrome, Russia","Fri Jun 18, 1982 11:58 UTC",Cosmos-3M (11K65M) | Cosmos 1380,StatusRetired,0,Partial Failure
+107,2351,2351,RVSN USSR,"Site 107/1, Kapustin Yar, Russia","Thu Mar 04, 1982 16:41 UTC",Cosmos-3M (11K65M) | Ta??foun n†­27,StatusRetired,0,Failure
+108,2363,2363,General Dynamics,"SLC-3E, Vandenberg AFB, California, USA","Sat Dec 19, 1981 01:10 UTC",Atlas-E/F SGS-1 | GPS-7,StatusRetired,0,Failure
+109,2366,2366,RVSN USSR,"Site 132/1, Plesetsk Cosmodrome, Russia","Fri Dec 04, 1981 11:06 UTC",Cosmos-3M (11K65M) | Cosmos 1304,StatusRetired,0,Partial Failure
+110,2383,2383,RVSN USSR,"Site 43/3, Plesetsk Cosmodrome, Russia","Fri Sep 11, 1981 08:43 UTC",Molniya-M /Block ML | Cosmos 1305,StatusRetired,0,Partial Failure
+111,2392,2392,General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA","Thu Aug 06, 1981 08:16 UTC",Atlas-SLV3D Centaur-D1AR | FLTSATCOM-5,StatusRetired,0,Partial Failure
+112,2402,2402,ISRO,"SLV LP, Satish Dhawan Space Centre, India","Sun May 31, 1981 05:00 UTC",SLV-3 | Rohini RS-D1,StatusRetired,0,Partial Failure
+113,2428,2428,RVSN USSR,"Site 32/1, Plesetsk Cosmodrome, Russia","Fri Jan 23, 1981 11:20 UTC",Tsyklon-3 | Cosmos 1242,StatusRetired,0,Failure
+114,2433,2433,RVSN USSR,"Site 132/1, Plesetsk Cosmodrome, Russia","Tue Dec 23, 1980 22:48 UTC",Cosmos-3M (11K65M) | Cosmos 1228 to 1235,StatusRetired,0,Partial Failure
+115,2436,2436,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA","Tue Dec 09, 1980 07:18 UTC",Atlas-E/F MSD | NOSS-4,StatusRetired,0,Failure
+116,2461,2461,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA","Thu May 29, 1980 10:53 UTC",Atlas-E/F Star-37S-ISS | NOAA-B,StatusRetired,0,Failure
+117,2462,2462,ESA,"ELV-1 (SLV), Guiana Space Centre, French Guiana, France","Fri May 23, 1980 14:29 UTC",Ariane 1 | CAT-2 & Others,StatusRetired,0,Failure
+118,2467,2467,RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia","Fri Apr 18, 1980 17:31 UTC",Molniya-M /Block ML | Cosmos 1175,StatusRetired,0,Partial Failure
+119,2477,2477,RVSN USSR,"Site 43/4, Plesetsk Cosmodrome, Russia","Tue Feb 12, 1980 00:52 UTC",Molniya-M /Block 2BL | Cosmos 1164,StatusRetired,0,Partial Failure
+120,2502,2502,ISRO,"SLV LP, Satish Dhawan Space Centre, India","Fri Aug 10, 1979 02:28 UTC",SLV-3 | Rohini Technology Payload,StatusRetired,0,Failure
+121,2504,2504,CASC,"Site 138 (LA-2B), Jiuquan Satellite Launch Center, China","Fri Jul 27, 1979 21:28 UTC",Feng Bao 1 | Shijian 2A,StatusRetired,0,Failure
+122,2532,2532,MHI,"LA-Y1, Tanegashima Space Center, Japan","Tue Feb 06, 1979 08:46 UTC",N-I Star-37E | Ayame 1,StatusRetired,0,Partial Failure
+123,2537,2537,RVSN USSR,"Site 43/4, Plesetsk Cosmodrome, Russia","Tue Dec 26, 1978 15:30 UTC",Soyuz U | Cosmos 1068,StatusRetired,0,Partial Failure
+124,2541,2541,RVSN USSR,"Site 132/1, Plesetsk Cosmodrome, Russia","Wed Dec 20, 1978 20:43 UTC",Cosmos-3M (11K65M) | Cosmos 1064,StatusRetired,0,Partial Failure
+125,2607,2607,Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA","Sat Mar 25, 1978 18:09 UTC",Titan III(23)C | DSCS-II 9&10,StatusRetired,0,Failure
+126,2647,2647,RVSN USSR,"Site 132/1, Plesetsk Cosmodrome, Russia","Tue Nov 29, 1977 07:05 UTC",Cosmos-3M (11K65M) | Tsikada n†­3,StatusRetired,0,Failure
+127,2657,2657,General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA","Fri Sep 30, 1977 01:02 UTC",Atlas-SLV3D Centaur-D1AR | Intelsat 4A F5,StatusRetired,0,Failure
+128,2679,2679,RVSN USSR,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Wed Aug 10, 1977 10:40 UTC",Soyuz U | Zenit-4MKM n†­399,StatusRetired,0,Failure
+129,2734,2734,RVSN USSR,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Tue Feb 22, 1977 09:19 UTC",Soyuz U | Zenit-4MK n†­381,StatusRetired,0,Failure
+130,2765,2765,CASC,"Site 138 (LA-2B), Jiuquan Satellite Launch Center, China","Wed Nov 10, 1976 09:05 UTC",Feng Bao 1 | JSSW-6,StatusRetired,0,Failure
+131,2775,2775,RVSN USSR,"Site 43/4, Plesetsk Cosmodrome, Russia","Mon Oct 04, 1976 11:00 UTC",Soyuz U | Zenit-4MKT n†­370,StatusRetired,0,Failure
+132,2783,2783,RVSN USSR,"Site 43/3, Plesetsk Cosmodrome, Russia","Wed Sep 01, 1976 03:23 UTC",Molniya-M /Block ML | Cosmos 853,StatusRetired,0,Partial Failure
+133,2806,2806,RVSN USSR,"Site 43/4, Plesetsk Cosmodrome, Russia","Thu Jul 01, 1976 08:05 UTC",Molniya-M /Block ML | Cosmos 837,StatusRetired,0,Partial Failure
+134,2849,2849,ISAS,"Mu Pad, Uchinoura Space Center, Japan","Wed Feb 04, 1976 05:00 UTC",Mu-III C | Corsa A,StatusRetired,0,Failure
+135,2863,2863,RVSN USSR,"Site 132/1, Plesetsk Cosmodrome, Russia","Fri Dec 19, 1975 14:00 UTC",Cosmos-3M (11K65M) | DS-P1 satellite,StatusRetired,0,Failure
+136,2926,2926,RVSN USSR,"Site 107/1, Kapustin Yar, Russia","Tue Jun 03, 1975 09:00 UTC",Cosmos-3M (11K65M) | DS-U3 satellite,StatusRetired,0,Failure
+137,2934,2934,Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA","Tue May 20, 1975 14:03 UTC",Titan III(23)C | DSCS-II 5&6,StatusRetired,0,Failure
+138,2945,2945,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA","Sun Apr 13, 1975 00:51 UTC",Atlas-E/F Star-17A | P72-2,StatusRetired,0,Failure
+139,2949,2949,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sat Apr 05, 1975 11:04 UTC",Soyuz | Soyuz 18a (7K-T n†­39),StatusRetired,0,Failure
+140,2961,2961,General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA","Thu Feb 20, 1975 23:35 UTC",Atlas-SLV3D Centaur-D1A | Intelsat 4 F6,StatusRetired,0,Failure
+141,2979,2979,RVSN USSR,"Site 43/3, Plesetsk Cosmodrome, Russia","Fri Dec 13, 1974 13:30 UTC",Soyuz U | Cosmos 697,StatusRetired,0,Partial Failure
+142,2987,2987,CASC,"Site 138 (LA-2B), Jiuquan Satellite Launch Center, China","Tue Nov 05, 1974 09:40 UTC",Long March 2 | FSW-0 No.0,StatusRetired,0,Failure
+143,3004,3004,RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia","Fri Aug 30, 1974 09:00 UTC",Voskhod | Zenit-2M n†­51,StatusRetired,0,Failure
+144,3018,3018,CASC,"Site 138 (LA-2B), Jiuquan Satellite Launch Center, China","Fri Jul 12, 1974 13:55 UTC",Feng Bao 1 | JSSW-2,StatusRetired,0,Failure
+145,3020,3020,RVSN USSR,"Site 133/3, Plesetsk Cosmodrome, Russia","Thu Jul 11, 1974 11:00 UTC",Cosmos-2I (63SM) | DS-P1-You n†­68,StatusRetired,0,Failure
+146,3037,3037,RVSN USSR,"Site 43/3, Plesetsk Cosmodrome, Russia","Thu May 23, 1974 12:16 UTC",Soyuz U | Yantar-2K n†­01,StatusRetired,0,Failure
+147,3049,3049,RVSN USSR,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Fri Apr 12, 1974 08:00 UTC",Voskhod | Zenit-4MK n†­23,StatusRetired,0,Failure
+148,3064,3064,Martin Marietta,"SLC-41, Cape Canaveral AFS, Florida, USA","Mon Feb 11, 1974 13:48 UTC",Titan IIIE | Sphinx & Viking-DS,StatusRetired,0,Failure
+149,3110,3110,CASC,"Site 138 (LA-2B), Jiuquan Satellite Launch Center, China","Tue Sep 18, 1973 12:12 UTC",Feng Bao 1 | JSSW-1,StatusRetired,0,Failure
+150,3127,3127,RVSN USSR,"Site 43/3, Plesetsk Cosmodrome, Russia","Wed Jul 04, 1973 10:59 UTC",Voskhod | Zenit-4M n†­50,StatusRetired,0,Failure
+151,3129,3129,RVSN USSR,"Site 132/2, Plesetsk Cosmodrome, Russia","Tue Jun 26, 1973",Cosmos-3M (11K65M) | Tselina-OM #20,StatusRetired,0,Failure
+152,3130,3130,US Air Force,"SLC-4W, Vandenberg AFB, California, USA","Tue Jun 26, 1973",Titan III(24)B | OPS 4018,StatusRetired,0,Failure
+153,3142,3142,RVSN USSR,"Site 132/1, Plesetsk Cosmodrome, Russia","Fri May 25, 1973 09:15 UTC",Cosmos-3M (11K65M) | Zaliv #17,StatusRetired,0,Failure
+154,3145,3145,CNES,"ELD, Guiana Space Centre, French Guiana, France","Tue May 22, 1973 21:37 UTC",Diamant B | Castor & Pollux,StatusRetired,0,Failure
+155,3152,3152,RVSN USSR,"Site 90/19, Baikonur Cosmodrome, Kazakhstan","Wed Apr 25, 1973 09:10 UTC",Tsyklon-2 | Cosmos 556,StatusRetired,0,Failure
+156,3174,3174,RVSN USSR,"Site 43/4, Plesetsk Cosmodrome, Russia","Thu Dec 28, 1972 11:00 UTC",Vostok-2M | Cosmos 542,StatusRetired,0,Partial Failure
+157,3186,3186,RVSN USSR,"Site 110/37, Baikonur Cosmodrome, Kazakhstan","Thu Nov 23, 1972 06:11 UTC",N1-L3 | 7L (Soyuz 7K-LOK No.1),StatusRetired,0,Failure
+158,3194,3194,RVSN USSR,"Site 132/1, Plesetsk Cosmodrome, Russia","Tue Oct 17, 1972 19:59 UTC",Cosmos-3M (11K65M) | Strela-2M satellite,StatusRetired,0,Failure
+159,3206,3206,RVSN USSR,"Site 43/4, Plesetsk Cosmodrome, Russia","Sat Sep 02, 1972 10:49 UTC",Voskhod | Zenit-4M n†­40,StatusRetired,0,Failure
+160,3217,3217,RVSN USSR,"Site 81/23, Baikonur Cosmodrome, Kazakhstan","Sat Jul 29, 1972 03:20 UTC",Proton K/Block D | DOS-2,StatusRetired,0,Failure
+161,3220,3220,RVSN USSR,"Site 43/4, Plesetsk Cosmodrome, Russia","Thu Jul 13, 1972 14:30 UTC",Soyuz M | Cosmos 502,StatusRetired,0,Partial Failure
+162,3236,3236,US Air Force,"SLC-4W, Vandenberg AFB, California, USA","Sat May 20, 1972 15:30 UTC",Titan III(24)B | OPS 6574,StatusRetired,0,Failure
+163,3241,3241,RVSN USSR,"Site 133/3, Plesetsk Cosmodrome, Russia","Tue Apr 25, 1972 11:30 UTC",Cosmos-2I (63SM) | DS-P1-You #51,StatusRetired,0,Failure
+164,3251,3251,RVSN USSR,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Fri Mar 31, 1972 04:02 UTC",Molniya-M /Block NVL | Cosmos 482,StatusRetired,0,Partial Failure
+165,3264,3264,Martin Marietta,"SLC-4W, Vandenberg AFB, California, USA","Wed Feb 16, 1972 09:59 UTC",Titan-III(33)B Agena-D | Jumpseat 2,StatusRetired,0,Failure
+166,3275,3275,RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia","Mon Dec 27, 1971 14:04 UTC",Soyuz M | Cosmos 470,StatusRetired,0,Partial Failure
+167,3285,3285,CNES,"ELD, Guiana Space Centre, French Guiana, France","Sun Dec 05, 1971 15:30 UTC",Diamant B | Polaire,StatusRetired,0,Failure
+168,3286,3286,General Dynamics,"LC-13, Cape Canaveral AFS, Florida, USA","Sat Dec 04, 1971 22:33 UTC",Atlas-SLV3A Agena-D | AFP-827 (Canyon-4),StatusRetired,0,Failure
+169,3288,3288,RVSN USSR,"Site 43/4, Plesetsk Cosmodrome, Russia","Fri Dec 03, 1971 13:00 UTC",Voskhod | Zenit-2M n†­25,StatusRetired,0,Failure
+170,3296,3296,RVSN USSR,"Site 43/3, Plesetsk Cosmodrome, Russia","Fri Nov 19, 1971 12:00 UTC",Voskhod | Cosmos 456,StatusRetired,0,Partial Failure
+171,3299,3299,CECLES,"ELA-1, Guiana Space Centre, French Guiana, France","Thu Nov 04, 1971 21:10 UTC",Europa 2 | Test flight,StatusRetired,0,Failure
+172,3319,3319,RVSN USSR,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Thu Aug 19, 1971 06:30 UTC",Voskhod | Zenit-2M n†­22,StatusRetired,0,Failure
+173,3324,3324,RVSN USSR,"Site 133/3, Plesetsk Cosmodrome, Russia","Tue Aug 03, 1971 11:00 UTC",Cosmos-2I (63SM) | DS-P1-You #33,StatusRetired,0,Failure
+174,3330,3330,RVSN USSR,"Site 132/2, Plesetsk Cosmodrome, Russia","Thu Jul 22, 1971 13:45 UTC",Cosmos-3M (11K65M) | Tselina-OM #10,StatusRetired,0,Failure
+175,3333,3333,RVSN USSR,"Site 110/37, Baikonur Cosmodrome, Kazakhstan","Sat Jun 26, 1971 23:15 UTC",N1-L3 | 6L (Test flight),StatusRetired,0,Failure
+176,3334,3334,RVSN USSR,"Site 43/4, Plesetsk Cosmodrome, Russia","Fri Jun 25, 1971 10:30 UTC",Voskhod | Zenit-4M n†­17,StatusRetired,0,Failure
+177,3351,3351,General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA","Sun May 09, 1971 01:11 UTC",Atlas-SLV3C Centaur-D | Mariner 8,StatusRetired,0,Failure
+178,3372,3372,RVSN USSR,"Site 86/1, Kapustin Yar, Russia","Fri Mar 05, 1971 08:15 UTC",Cosmos-2I (63SM) | DS-P1-You #39,StatusRetired,0,Failure
+179,3373,3373,RVSN USSR,"Site 43/4, Plesetsk Cosmodrome, Russia","Fri Mar 05, 1971 01:02 UTC",Voskhod | Zenit-2M n†­17,StatusRetired,0,Failure
+180,3393,3393,RVSN USSR,"Site 132/2, Plesetsk Cosmodrome, Russia","Tue Dec 22, 1970 21:30 UTC",Cosmos-3M (11K65M) | DS-P1-M #1,StatusRetired,0,Failure
+181,3405,3405,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA","Mon Nov 30, 1970 22:40 UTC",Atlas-SLV3C Centaur-D | OAO-B,StatusRetired,0,Failure
+182,3412,3412,Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Nov 06, 1970 10:35 UTC",Titan III(23)C | OPS-5960 (IMEWS-1/DSP-1),StatusRetired,0,Partial Failure
+183,3413,3413,RAE,"LA-5B, RAAF Woomera Range Complex, Australia","Mon Nov 02, 1970 00:34 UTC",Black Arrow | Orba,StatusRetired,0,Failure
+184,3432,3432,ISAS,"Mu Pad, Uchinoura Space Center, Japan","Tue Sep 22, 1970 05:00 UTC",Mu-IV S | Shinsei,StatusRetired,0,Failure
+185,3439,3439,RVSN USSR,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Sat Aug 22, 1970 05:06 UTC",Molniya-M /Block NVL | Cosmos 359,StatusRetired,0,Partial Failure
+186,3440,3440,RVSN USSR,"Site 132/1, Plesetsk Cosmodrome, Russia","Thu Aug 20, 1970 14:30 UTC",Cosmos-3M (11K65M) | Cosmos 358,StatusRetired,0,Partial Failure
+187,3449,3449,RVSN USSR,"Site 43/4, Plesetsk Cosmodrome, Russia","Tue Jul 21, 1970 12:30 UTC",Voskhod | Zenit-4 n†­75,StatusRetired,0,Failure
+188,3452,3452,RVSN USSR,"Site 132/2, Plesetsk Cosmodrome, Russia","Sat Jun 27, 1970 16:40 UTC",Cosmos-3M (11K65M) | Strela-2M satellite,StatusRetired,0,Failure
+189,3462,3462,CECLES,"LA-5B, RAAF Woomera Range Complex, Australia","Fri Jun 12, 1970 06:06 UTC",Europa 1 | STV-3,StatusRetired,0,Failure
+190,3465,3465,RVSN USSR,"Site 133/3, Plesetsk Cosmodrome, Russia","Fri May 22, 1970 12:39 UTC",Cosmos-2I (63SM) | DS-P1-You #36,StatusRetired,0,Failure
+191,3483,3483,RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia","Tue Mar 17, 1970 11:10 UTC",Vostok-2M | Meteor n†­14,StatusRetired,0,Partial Failure
+192,3491,3491,RVSN USSR,"Site 81/23, Baikonur Cosmodrome, Kazakhstan","Fri Feb 06, 1970 04:16 UTC",Proton K/Block D | Luna-16c,StatusRetired,0,Failure
+193,3492,3492,RVSN USSR,"Site 133/3, Plesetsk Cosmodrome, Russia","Fri Jan 30, 1970 15:40 UTC",Cosmos-2I (63SM) | DS-P1-I #6,StatusRetired,0,Failure
+194,3499,3499,RVSN USSR,"Site 132/1, Plesetsk Cosmodrome, Russia","Sat Dec 27, 1969 14:20 UTC",Cosmos-3M (11K65M) | Ionosfernaya #1,StatusRetired,0,Failure
+195,3506,3506,RVSN USSR,"Site 81/23, Baikonur Cosmodrome, Kazakhstan","Fri Nov 28, 1969 09:00 UTC",Proton K/Block D | Zond (L1E),StatusRetired,0,Failure
+196,3509,3509,CASC,"Site 5020 (LA-2A), Jiuquan Satellite Launch Center, China","Sun Nov 16, 1969",Long March 1 | Test flight,StatusRetired,0,Failure
+197,3518,3518,RVSN USSR,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Wed Oct 22, 1969 14:09 UTC",Proton K/Block D | Cosmos 305 (Luna-16b),StatusRetired,0,Failure
+198,3529,3529,UT,"Uchinoura Space Center, Japan","Mon Sep 22, 1969",Lambda-IV S | Osumi,StatusRetired,0,Failure
+199,3542,3542,RVSN USSR,"Site 133/3, Plesetsk Cosmodrome, Russia","Wed Jul 23, 1969 09:00 UTC",Cosmos-2I (63SM) | DS-P1-You #23,StatusRetired,0,Failure
+200,3547,3547,RVSN USSR,"Site 110/38, Baikonur Cosmodrome, Kazakhstan","Thu Jul 03, 1969 20:18 UTC",N1-L3 | 5L (Zond L1S-2),StatusRetired,0,Failure
+201,3548,3548,CECLES,"LA-5B, RAAF Woomera Range Complex, Australia","Thu Jul 03, 1969 08:06 UTC",Europa 1 | STV-2,StatusRetired,0,Failure
+202,3552,3552,RVSN USSR,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Sat Jun 14, 1969 23:59 UTC",Proton K/Block D | Luna-15b,StatusRetired,0,Failure
+203,3561,3561,RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia","Tue May 13, 1969 09:15 UTC",Voskhod | Cosmos 281,StatusRetired,0,Partial Failure
+204,3570,3570,RVSN USSR,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Wed Apr 02, 1969 10:33 UTC",Proton K/Block D | M-69 ???522,StatusRetired,0,Failure
+205,3573,3573,RVSN USSR,"Site 81/23, Baikonur Cosmodrome, Kazakhstan","Thu Mar 27, 1969 10:40 UTC",Proton K/Block D | M-69 N†­521,StatusRetired,0,Failure
+206,3574,3574,RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia","Wed Mar 26, 1969 12:30 UTC",Vostok-2M | Meteor n†­12,StatusRetired,0,Failure
+207,3588,3588,RVSN USSR,"Site 110/38, Baikonur Cosmodrome, Kazakhstan","Fri Feb 21, 1969 09:18 UTC",N1-L3 | 3L (Zond L1S-1),StatusRetired,0,Failure
+208,3589,3589,RVSN USSR,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Wed Feb 19, 1969 06:48 UTC",Proton K/Block D | Luna-15a,StatusRetired,0,Failure
+209,3592,3592,RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia","Sat Feb 01, 1969 12:11 UTC",Vostok-2M | Meteor n†­11,StatusRetired,0,Failure
+210,3593,3593,RVSN USSR,"Site 90/19, Baikonur Cosmodrome, Kazakhstan","Sat Jan 25, 1969 11:14 UTC",Tsyklon-2A | US-A n†­5,StatusRetired,0,Failure
+211,3596,3596,RVSN USSR,"Site 81/23, Baikonur Cosmodrome, Kazakhstan","Mon Jan 20, 1969 04:14 UTC",Proton K/Block D | Zond,StatusRetired,0,Failure
+212,3628,3628,RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia","Mon Oct 07, 1968 12:05 UTC",Voskhod | Cosmos 246,StatusRetired,0,Partial Failure
+213,3642,3642,General Dynamics,"SLC-3E, Vandenberg AFB, California, USA","Fri Aug 16, 1968 20:57 UTC",Atlas-SLV3 Burner-2 | STP P68-1,StatusRetired,0,Failure
+214,3643,3643,General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA","Sat Aug 10, 1968 22:33 UTC",Atlas-SLV3C Centaur-D | ATS-4,StatusRetired,0,Partial Failure
+215,3658,3658,RVSN USSR,"Site 41/15, Baikonur Cosmodrome, Kazakhstan","Sat Jun 15, 1968",Cosmos-3 (11K65) | Strela-2 #4,StatusRetired,0,Failure
+216,3663,3663,RVSN USSR,"Site 132/2, Plesetsk Cosmodrome, Russia","Tue Jun 04, 1968 18:45 UTC",Cosmos-3M (11K65M) | Sfera #2,StatusRetired,0,Failure
+217,3671,3671,RVSN USSR,"Site 90/19, Baikonur Cosmodrome, Kazakhstan","Wed Apr 24, 1968 16:00 UTC",Tsyklon-2A | Cosmos 217,StatusRetired,0,Partial Failure
+218,3672,3672,RVSN USSR,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Mon Apr 22, 1968 23:01 UTC",Proton K/Block D | Zond,StatusRetired,0,Failure
+219,3683,3683,NASA,"LC-39A, Kennedy Space Center, Florida, USA","Thu Apr 04, 1968 12:00 UTC",Saturn V | Apollo 6,StatusRetired,"1,160.00",Partial Failure
+220,3691,3691,RVSN USSR,"Site 86/1, Kapustin Yar, Russia","Wed Mar 06, 1968",Cosmos-2I (63SM) | DS-U1-Ya #1,StatusRetired,0,Failure
+221,3695,3695,RVSN USSR,"Site 81/23, Baikonur Cosmodrome, Kazakhstan","Sat Mar 02, 1968 18:29 UTC",Proton K/Block D | Zond-4,StatusRetired,0,Partial Failure
+222,3698,3698,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Wed Feb 07, 1968 10:43 UTC",Molniya-M /Block L | E-6LS n†­112,StatusRetired,0,Failure
+223,3714,3714,RVSN USSR,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Wed Nov 22, 1967 19:07 UTC",Proton K/Block D | Zond,StatusRetired,0,Failure
+224,3733,3733,RVSN USSR,"Site 81/23, Baikonur Cosmodrome, Kazakhstan","Wed Sep 27, 1967 21:11 UTC",Proton K/Block D | Zond,StatusRetired,0,Failure
+225,3734,3734,RVSN USSR,"Site 132/2, Plesetsk Cosmodrome, Russia","Wed Sep 27, 1967 11:00 UTC",Cosmos-3M (11K65M) | Zaliv #2,StatusRetired,0,Failure
+226,3743,3743,RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia","Fri Sep 01, 1967 10:30 UTC",Voskhod | Zenit-2 n†­51,StatusRetired,0,Failure
+227,3751,3751,General Dynamics,"LC-576B3, Vandenberg AFB, California, USA","Thu Jul 27, 1967 19:00 UTC",Atlas-D OV1 | OV1-11/OV1-12/OV1-86,StatusRetired,0,Partial Failure
+228,3752,3752,RVSN USSR,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Fri Jul 21, 1967 06:00 UTC",Voskhod | Zenit-4 n†­32,StatusRetired,0,Failure
+229,3757,3757,RVSN USSR,"Site 132/2, Plesetsk Cosmodrome, Russia","Mon Jun 26, 1967",Cosmos-3M (11K65M) | Tselina-OM #1,StatusRetired,0,Failure
+230,3758,3758,US Air Force,"SLC-4W, Vandenberg AFB, California, USA","Tue Jun 20, 1967 16:19 UTC",Titan IIIB | OPS 4282,StatusRetired,59,Partial Failure
+231,3759,3759,RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia","Tue Jun 20, 1967 11:00 UTC",Voskhod | Zenit-4 n†­31,StatusRetired,0,Failure
+232,3760,3760,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sat Jun 17, 1967 02:36 UTC",Molniya-M /Block VL | Cosmos 167,StatusRetired,0,Partial Failure
+233,3773,3773,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Tue May 16, 1967 21:44 UTC",Molniya-M /Block L | Cosmos 159,StatusRetired,0,Partial Failure
+234,3779,3779,US Air Force,"SLC-4W, Vandenberg AFB, California, USA","Wed Apr 26, 1967",Titan IIIB | OPS 4243,StatusRetired,59,Failure
+235,3784,3784,RVSN USSR,"Site 81/23, Baikonur Cosmodrome, Kazakhstan","Sat Apr 08, 1967 09:00 UTC",Proton K/Block D | Cosmos 154,StatusRetired,0,Partial Failure
+236,3785,3785,General Dynamics,"LC-12, Cape Canaveral AFS, Florida, USA","Thu Apr 06, 1967 03:23 UTC",Atlas-SLV3 Agena-D | ATS-2,StatusRetired,0,Partial Failure
+237,3787,3787,UT,"Uchinoura Space Center, Japan","Mon Apr 03, 1967",Lambda-IV S | Osumi,StatusRetired,0,Failure
+238,3790,3790,RVSN USSR,"Site 161/35, Baikonur Cosmodrome, Kazakhstan","Wed Mar 22, 1967 14:05 UTC",Tsyklon | OGTch 3,StatusRetired,0,Failure
+239,3798,3798,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Mon Feb 27, 1967 08:45 UTC",Vostok-2 | Cosmos 143,StatusRetired,0,Partial Failure
+240,3803,3803,Arm??e de l'Air,"Brigitte, Hammaguir, Algeria, France","Wed Feb 08, 1967 08:39 UTC",Diamant A | Diad?ªme 1,StatusRetired,0,Partial Failure
+241,3807,3807,NASA,"LC-34, Cape Canaveral AFS, Florida, USA","Fri Jan 27, 1967 23:31 UTC",Saturn IB | Apollo 1,StatusRetired,0,Failure
+242,3813,3813,UT,"Uchinoura Space Center, Japan","Tue Dec 20, 1966",Lambda-IV S | Osumi,StatusRetired,0,Failure
+243,3816,3816,RVSN USSR,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Wed Dec 14, 1966 11:27 UTC",Soyuz | Soyuz 7K-OK n†­1,StatusRetired,0,Prelaunch Failure
+244,3824,3824,RVSN USSR,"Site 41/15, Baikonur Cosmodrome, Kazakhstan","Wed Nov 16, 1966 13:00 UTC",Cosmos-3 (11K65) | Strela-2 #2,StatusRetired,0,Failure
+245,3831,3831,RVSN USSR,"Site 162, Baikonur Cosmodrome, Kazakhstan","Wed Nov 02, 1966 00:45 UTC",Tsyklon | OGTch 2,StatusRetired,0,Partial Failure
+246,3840,3840,UT,"Uchinoura Space Center, Japan","Mon Sep 26, 1966",Lambda-IV S | Osumi,StatusRetired,0,Failure
+247,3842,3842,RVSN USSR,"Site 162, Baikonur Cosmodrome, Kazakhstan","Sat Sep 17, 1966 22:35 UTC",Tsyklon | OGTch 1,StatusRetired,0,Partial Failure
+248,3844,3844,RVSN USSR,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Fri Sep 16, 1966 09:30 UTC",Vostok-2 | Zenit-2 n†­40,StatusRetired,0,Failure
+249,3848,3848,Martin Marietta,"SLC-41, Cape Canaveral AFS, Florida, USA","Fri Aug 26, 1966 13:59 UTC","Titan IIIC | IDCSP-1 8-14, GGTS-2",StatusRetired,0,Failure
+250,3861,3861,General Dynamics,"LC-576B3, Vandenberg AFB, California, USA","Thu Jul 14, 1966 02:10 UTC",Atlas-D OV1 | OV1-7/OV1-8,StatusRetired,0,Partial Failure
+251,3869,3869,General Dynamics,"SLC-3E, Vandenberg AFB, California, USA","Thu Jun 09, 1966 20:15 UTC",Atlas-SLV3 Agena-D | Midas 10,StatusRetired,0,Partial Failure
+252,3873,3873,NASA,"LC-19, Cape Canaveral AFS, Florida, USA","Fri Jun 03, 1966 13:39 UTC",Titan II GLV | Gemini IX-A,StatusRetired,0,Partial Failure
+253,3877,3877,General Dynamics,"LC-14, Cape Canaveral AFS, Florida, USA","Tue May 17, 1966 15:15 UTC",Atlas-SLV3 Agena-D | GATV 5004,StatusRetired,0,Failure
+254,3878,3878,RVSN USSR,"Site 41/1, Plesetsk Cosmodrome, Russia","Tue May 17, 1966 11:00 UTC",Voskhod | Zenit-4 n†­18,StatusRetired,0,Failure
+255,3879,3879,NASA,"LC-19, Cape Canaveral AFS, Florida, USA","Mon May 16, 1966 16:41 UTC",Titan II GLV | Gemini VIII,StatusRetired,0,Partial Failure
+256,3888,3888,General Dynamics,"SLC-36B, Cape Canaveral AFS, Florida, USA","Fri Apr 08, 1966 01:00 UTC",Atlas-LV3C Centaur-D | Surveyor Model-3,StatusRetired,0,Partial Failure
+257,3892,3892,RVSN USSR,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Sun Mar 27, 1966 07:20 UTC",Molniya | Molniya-1 n†­5,StatusRetired,0,Failure
+258,3893,3893,RVSN USSR,"Site 81/24, Baikonur Cosmodrome, Kazakhstan","Thu Mar 24, 1966 14:39 UTC",Proton | Proton-3a,StatusRetired,0,Failure
+259,3898,3898,RVSN USSR,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Tue Mar 01, 1966 11:03 UTC",Molniya-M /Block L | Cosmos 111,StatusRetired,0,Partial Failure
+260,3901,3901,RVSN USSR,"Site 86/1, Kapustin Yar, Russia","Mon Feb 21, 1966",Cosmos-2I (63S1) | DS-K40 #2,StatusRetired,0,Failure
+261,3911,3911,RVSN USSR,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Fri Jan 07, 1966 08:20 UTC",Vostok-2 | Cosmos 104,StatusRetired,0,Partial Failure
+262,3912,3912,RVSN USSR,"Site 86/1, Kapustin Yar, Russia","Tue Dec 28, 1965",Cosmos-2I (63S1) | DS-K40 #1,StatusRetired,0,Failure
+263,3915,3915,Martin Marietta,"SLC-41, Cape Canaveral AFS, Florida, USA","Tue Dec 21, 1965 14:00 UTC","Titan IIIC | LES 3 & 4, OV2-3, OSCAR-4",StatusRetired,0,Partial Failure
+264,3925,3925,RVSN USSR,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Tue Nov 23, 1965 03:21 UTC",Molniya | Cosmos 96,StatusRetired,0,Partial Failure
+265,3932,3932,General Dynamics,"LC-14, Cape Canaveral AFS, Florida, USA","Mon Oct 25, 1965 15:00 UTC",Atlas-SLV3 Agena-D | GATV 5002,StatusRetired,0,Failure
+266,3935,3935,Martin Marietta,"SLC-40, Cape Canaveral AFS, Florida, USA","Fri Oct 15, 1965 17:23 UTC",Titan IIIC | LCS-2 & OV2-1,StatusRetired,0,Failure
+267,3956,3956,RVSN USSR,"Site 31/6, Baikonur Cosmodrome, Kazakhstan","Tue Jul 13, 1965 11:00 UTC",Vostok-2 | Zenit-2 n†­28,StatusRetired,0,Failure
+268,3957,3957,General Dynamics,"SLC-4E, Vandenberg AFB, California, USA","Mon Jul 12, 1965 19:00 UTC",Atlas-SLV3 Agena-D | KH-7 Gambit 4020,StatusRetired,0,Failure
+269,3965,3965,General Dynamics,"LC-576B3, Vandenberg AFB, California, USA","Fri May 28, 1965 02:54 UTC",Atlas-D OV1 | OV1-3,StatusRetired,0,Failure
+270,3975,3975,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sat Apr 10, 1965 08:15 UTC",Molniya | E-6 n†­8 (Luna),StatusRetired,0,Failure
+271,3985,3985,General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA","Tue Mar 02, 1965 13:25 UTC",Atlas-LV3C Centaur-C | Surveyor-SD 1,StatusRetired,0,Failure
+272,3989,3989,RVSN USSR,"Site 86/1, Kapustin Yar, Russia","Sat Feb 20, 1965 06:30 UTC",Cosmos-2I (63S1) | DS-A1 #6,StatusRetired,0,Failure
+273,3992,3992,RVSN USSR,"Site 86/1, Kapustin Yar, Russia","Fri Feb 12, 1965 12:00 UTC",Cosmos-2I (63S1) | DS-P1 You #2,StatusRetired,0,Failure
+274,3996,3996,General Dynamics,"LC-576B3, Vandenberg AFB, California, USA","Thu Jan 21, 1965 20:09 UTC",Atlas-D OV1 | OV1-1,StatusRetired,0,Failure
+275,3999,3999,General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA","Fri Dec 11, 1964 14:25 UTC",Atlas-LV3C Centaur-C | Surveyor-Model 1,StatusRetired,0,Partial Failure
+276,4003,4003,RVSN USSR,"Mayak-2, Kapustin Yar, Russia","Tue Dec 01, 1964",Cosmos-2I (63S1) | DS-2 #2,StatusRetired,0,Failure
+277,4006,4006,General Dynamics,"LC-13, Cape Canaveral AFS, Florida, USA","Thu Nov 05, 1964 19:22 UTC",Atlas-LV3 Agena-D | Mariner 3,StatusRetired,0,Failure
+278,4009,4009,RVSN USSR,"Site 41/15, Baikonur Cosmodrome, Kazakhstan","Fri Oct 23, 1964","Cosmos-1 (65S3) | Strela-1 #4, 5, 6",StatusRetired,0,Failure
+279,4013,4013,General Dynamics,"SLC-4E, Vandenberg AFB, California, USA","Thu Oct 08, 1964",Atlas-SLV3 Agena-D | KH-7 Gambit 4012,StatusRetired,0,Failure
+280,4020,4020,US Air Force,"SLC-20, Cape Canaveral AFS, Florida, USA","Tue Sep 01, 1964 15:00 UTC",Titan IIIA | Transtage 1,StatusRetired,63.23,Failure
+281,4034,4034,General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA","Tue Jun 30, 1964 14:04 UTC",Atlas-LV3C Centaur-C | AC-3 (Test Vehicle),StatusRetired,0,Failure
+282,4038,4038,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Thu Jun 04, 1964 04:00 UTC",Molniya | Molniya-1 n†­1,StatusRetired,0,Failure
+283,4044,4044,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Mon Apr 20, 1964 08:08 UTC",Molniya | E-6 n†­5 (Luna 5),StatusRetired,0,Failure
+284,4049,4049,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Mar 27, 1964 03:24 UTC",Molniya | Cosmos 27,StatusRetired,0,Partial Failure
+285,4050,4050,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sat Mar 21, 1964 08:15 UTC",Molniya | E-6 n†­6,StatusRetired,0,Failure
+286,4055,4055,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Wed Feb 19, 1964 05:47 UTC",Molniya | 3MV-1 n†­2 (Zond 1),StatusRetired,0,Failure
+287,4063,4063,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Thu Nov 28, 1963 09:19 UTC",Vostok-2 | Zenit-2 n†­14,StatusRetired,0,Failure
+288,4069,4069,RVSN USSR,"Mayak-2, Kapustin Yar, Russia","Thu Oct 24, 1963 04:30 UTC",Cosmos-2I (63S1) | DS-A1 #4,StatusRetired,0,Failure
+289,4072,4072,US Air Force,"SLC-5, Vandenberg AFB, California, USA","Fri Sep 27, 1963 11:17 UTC",Scout X-2B | DSAP-1 F5 (Program 35),StatusRetired,0,Failure
+290,4074,4074,RVSN USSR,"Mayak-2, Kapustin Yar, Russia","Thu Aug 22, 1963 06:00 UTC",Cosmos-2I (63S1) | DS-A1 #3,StatusRetired,0,Failure
+291,4078,4078,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Wed Jul 10, 1963 10:03 UTC",Vostok-2 | Zenit-2 n†­12,StatusRetired,0,Failure
+292,4083,4083,General Dynamics,"SLC-3E, Vandenberg AFB, California, USA","Wed Jun 12, 1963",Atlas-LV3 Agena-B | Midas 8,StatusRetired,0,Failure
+293,4084,4084,RVSN USSR,"Mayak-2, Kapustin Yar, Russia","Sat Jun 01, 1963",Cosmos-2I (63S1) | DS-MT #1,StatusRetired,0,Failure
+294,4090,4090,US Air Force,"SLC-5, Vandenberg AFB, California, USA","Fri Apr 26, 1963",Scout X-2M | DSAP-1 F4 (Program 35),StatusRetired,0,Failure
+295,4093,4093,RVSN USSR,"Mayak-2, Kapustin Yar, Russia","Sat Apr 06, 1963 03:01 UTC",Cosmos-2I (63S1) | DS-P1 #2,StatusRetired,0,Failure
+296,4094,4094,US Air Force,"SLC-5, Vandenberg AFB, California, USA","Fri Apr 05, 1963 03:01 UTC",Scout X-3 | Transit-5A 2,StatusRetired,0,Failure
+297,4098,4098,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sun Feb 03, 1963 09:29 UTC",Molniya | E-6 n†­2 (Luna 4),StatusRetired,0,Failure
+298,4099,4099,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jan 04, 1963 08:49 UTC",Molniya | E-6 n†­1 (Luna 4),StatusRetired,0,Failure
+299,4102,4102,General Dynamics,"SLC-3E, Vandenberg AFB, California, USA","Mon Dec 17, 1962 20:36 UTC",Atlas-LV3 Agena-B | Midas 6,StatusRetired,0,Failure
+300,4111,4111,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sun Nov 04, 1962 15:35 UTC",Molniya | 2MV-3 n†­1 (Mars 2),StatusRetired,0,Failure
+301,4116,4116,RVSN USSR,"Mayak-2, Kapustin Yar, Russia","Thu Oct 25, 1962 07:00 UTC",Cosmos-2I (63S1) | 1MS #2,StatusRetired,0,Failure
+302,4117,4117,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Wed Oct 24, 1962 17:55 UTC",Molniya | 2MV-4 n†­1 (Mars 1),StatusRetired,0,Failure
+303,4129,4129,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Wed Sep 12, 1962 00:59 UTC",Molniya | 2MV-2 n†­1 (Venera 2),StatusRetired,0,Failure
+304,4131,4131,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sat Sep 01, 1962 02:12 UTC",Molniya | 2MV-1 n†­2 (Venera 2),StatusRetired,0,Failure
+305,4134,4134,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sat Aug 25, 1962 02:56 UTC",Molniya | 2MV-1 n†­1 (Venera 2),StatusRetired,0,Failure
+306,4143,4143,General Dynamics,"LC-12, Cape Canaveral AFS, Florida, USA","Sun Jul 22, 1962 09:21 UTC",Atlas-LV3 Agena-B | Mariner 1,StatusRetired,0,Failure
+307,4154,4154,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jun 01, 1962 09:37 UTC",Vostok-2 | Zenit-2 n†­3,StatusRetired,0,Failure
+308,4158,4158,US Air Force,"SLC-5, Vandenberg AFB, California, USA","Thu May 24, 1962",Scout X-2M | DSAP-1 F1 (Program 35),StatusRetired,0,Failure
+309,4160,4160,US Air Force,"SLC-17B, Cape Canaveral AFS, Florida, USA","Thu May 10, 1962 12:06 UTC",Thor-DM21 Ablestar | ANNA 1A,StatusRetired,0,Failure
+310,4161,4161,General Dynamics,"SLC-36A, Cape Canaveral AFS, Florida, USA","Tue May 08, 1962 19:49 UTC",Atlas-LV3C Centaur-A | AC-1 (Test Vehicle),StatusRetired,0,Failure
+311,4165,4165,NASA,"LA-3, Wallops Flight Facility, Virginia, USA","Thu Apr 26, 1962 10:49 UTC",Scout X-2 | Solrad 4B,StatusRetired,0,Failure
+312,4176,4176,US Air Force,"SLC-1E (75-3-5), Vandenberg AFB, California, USA","Wed Feb 21, 1962 18:44 UTC",Thor DM-21 Agena-B | FTV 2301,StatusRetired,0,Partial Failure
+313,4179,4179,General Dynamics,"LC-12, Cape Canaveral AFS, Florida, USA","Fri Jan 26, 1962 20:30 UTC",Atlas-LV3 Agena-B | Ranger 3,StatusRetired,0,Partial Failure
+314,4180,4180,US Air Force,"SLC-17B, Cape Canaveral AFS, Florida, USA","Wed Jan 24, 1962 09:30 UTC",Thor-DM21 Ablestar | LOFTI-2A & Others,StatusRetired,0,Failure
+315,4181,4181,US Air Force,"SLC-1W (75-3-4), Vandenberg AFB, California, USA","Sat Jan 13, 1962 21:41 UTC",Thor DM-21 Agena-B | Discoverer 37,StatusRetired,0,Failure
+316,4182,4182,General Dynamics,"SLC-3E, Vandenberg AFB, California, USA","Fri Dec 22, 1961 19:12 UTC",Atlas-LV3 Agena-B | Samos 5,StatusRetired,0,Partial Failure
+317,4183,4183,RVSN USSR,"Mayak-2, Kapustin Yar, Russia","Thu Dec 21, 1961 12:30 UTC",Cosmos-2I (63S1) | DS-1 2,StatusRetired,0,Failure
+318,4185,4185,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Mon Dec 11, 1961 09:39 UTC",Vostok | Zenit-2 n†­1,StatusRetired,0,Failure
+319,4187,4187,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA","Wed Nov 22, 1961 20:45 UTC",Atlas-LV3 Agena-B | Samos 4,StatusRetired,0,Failure
+320,4188,4188,General Dynamics,"LC-12, Cape Canaveral AFS, Florida, USA","Sat Nov 18, 1961 08:12 UTC",Atlas-LV3 Agena-B | Ranger 2,StatusRetired,0,Failure
+321,4191,4191,US Air Force,"SLC-2E (75-1-1), Vandenberg AFB, California, USA","Sun Nov 05, 1961 20:00 UTC",Thor DM-21 Agena-B | Discoverer 34,StatusRetired,0,Failure
+322,4192,4192,NASA,"LC-18B, Cape Canaveral AFS, Florida, USA","Wed Nov 01, 1961 15:32 UTC",Blue Scout II | Mercury-Scout 1 (MS-1),StatusRetired,0,Failure
+323,4193,4193,RVSN USSR,"Mayak-2, Kapustin Yar, Russia","Fri Oct 27, 1961 16:30 UTC",Cosmos-2I (63S1) | DS-1 1,StatusRetired,0,Failure
+324,4194,4194,US Air Force,"SLC-1E (75-3-5), Vandenberg AFB, California, USA","Mon Oct 23, 1961 19:23 UTC",Thor DM-21 Agena-B | Discoverer 33,StatusRetired,0,Failure
+325,4195,4195,General Dynamics,"SLC-3E, Vandenberg AFB, California, USA","Sat Oct 21, 1961 13:53 UTC",Atlas-LV3 Agena-B | Midas 4,StatusRetired,0,Partial Failure
+326,4200,4200,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA","Sat Sep 09, 1961 19:28 UTC",Atlas-LV3 Agena-B | Samos 3,StatusRetired,0,Failure
+327,4202,4202,NASA,"LA-3, Wallops Flight Facility, Virginia, USA","Fri Aug 25, 1961 18:29 UTC",Scout X-1 | Explorer 13,StatusRetired,0,Partial Failure
+328,4203,4203,General Dynamics,"LC-12, Cape Canaveral AFS, Florida, USA","Wed Aug 23, 1961 10:04 UTC",Atlas-LV3 Agena-B | Ranger 1,StatusRetired,0,Failure
+329,4206,4206,US Air Force,"SLC-2E (75-1-1), Vandenberg AFB, California, USA","Fri Aug 04, 1961 00:01 UTC",Thor DM-21 Agena-B | Discoverer 28,StatusRetired,0,Failure
+330,4207,4207,US Air Force,"SLC-1W (75-3-4), Vandenberg AFB, California, USA","Fri Jul 21, 1961 22:35 UTC",Thor DM-21 Agena-B | Discoverer 27,StatusRetired,0,Failure
+331,4212,4212,NASA,"LA-3, Wallops Flight Facility, Virginia, USA","Fri Jun 30, 1961 17:09 UTC",Scout X-1 | Explorer (S-55),StatusRetired,0,Failure
+332,4215,4215,US Air Force,"SLC-1W (75-3-4), Vandenberg AFB, California, USA","Thu Jun 08, 1961 21:16 UTC",Thor DM-21 Agena-B | Discoverer 24,StatusRetired,0,Failure
+333,4217,4217,NASA,"LC-14, Cape Canaveral AFS, Florida, USA","Tue Apr 25, 1961 16:15 UTC",Atlas-D Mercury | Mercury-Atlas 3 (MA-3),StatusRetired,0,Failure
+334,4220,4220,US Air Force,"SLC-1W (75-3-4), Vandenberg AFB, California, USA","Thu Mar 30, 1961 20:34 UTC",Thor DM-21 Agena-B | Discoverer 22,StatusRetired,0,Failure
+335,4231,4231,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sat Feb 04, 1961 01:18 UTC",Molniya | 1VA n†­1 (Venera 1),StatusRetired,0,Failure
+336,4234,4234,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Thu Dec 22, 1960 07:45 UTC",Vostok | 1K n†­5 (Korabl-Sputnik 3),StatusRetired,0,Failure
+337,4237,4237,General Dynamics,"LC-12, Cape Canaveral AFS, Florida, USA","Thu Dec 15, 1960 09:10 UTC",Atlas-D Able | Pioneer P-31,StatusRetired,0,Failure
+338,4239,4239,NASA,"LA-3, Wallops Flight Facility, Virginia, USA","Sun Dec 04, 1960 21:14 UTC",Scout X-1 | Explorer (S-56),StatusRetired,0,Failure
+339,4241,4241,US Air Force,"SLC-17B, Cape Canaveral AFS, Florida, USA","Wed Nov 30, 1960 19:50 UTC",Thor-DM21 Ablestar | Transit 3A & GRAB-2,StatusRetired,0,Failure
+340,4243,4243,NASA,"LC-5, Cape Canaveral AFS, Florida, USA","Mon Nov 21, 1960 14:00 UTC",Mercury-Redstone | Mercury-Redstone 1 (MR-1),StatusRetired,0,Failure
+341,4245,4245,US Air Force,"SLC-1W (75-3-4), Vandenberg AFB, California, USA","Wed Oct 26, 1960 20:26 UTC",Thor DM-21 Agena-B | Discoverer 16,StatusRetired,0,Failure
+342,4246,4246,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Oct 14, 1960 13:51 UTC",Molniya | 1M n†­2 (Marsnik 2),StatusRetired,0,Failure
+343,4247,4247,General Dynamics,"SLC-3W, Vandenberg AFB, California, USA","Tue Oct 11, 1960 20:33 UTC",Atlas-LV3 Agena-A | Samos 1,StatusRetired,0,Failure
+344,4248,4248,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Mon Oct 10, 1960 14:27 UTC",Molniya | 1M n†­1 (Marsnik 1),StatusRetired,0,Failure
+345,4250,4250,General Dynamics,"LC-12, Cape Canaveral AFS, Florida, USA","Sun Sep 25, 1960 15:13 UTC",Atlas-D Able | Pioneer P-30,StatusRetired,0,Failure
+346,4253,4253,US Air Force,"SLC-17B, Cape Canaveral AFS, Florida, USA","Thu Aug 18, 1960 19:58 UTC",Thor-DM21 Ablestar | Courier 1A,StatusRetired,0,Failure
+347,4257,4257,NASA,"LC-14, Cape Canaveral AFS, Florida, USA","Fri Jul 29, 1960 13:13 UTC",Atlas-D Mercury | Mercury-Atlas 1 (MA-1),StatusRetired,0,Failure
+348,4258,4258,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Thu Jul 28, 1960 09:31 UTC",Vostok | 1K n†­2 (Korabl-Sputnik 2),StatusRetired,0,Failure
+349,4259,4259,US Air Force,"SLC-1W (75-3-4), Vandenberg AFB, California, USA","Wed Jun 29, 1960 22:00 UTC",Thor-DM18 Agena-A | Discoverer 12,StatusRetired,0,Failure
+350,4263,4263,US Air Force,"SLC-17A, Cape Canaveral AFS, Florida, USA","Fri May 13, 1960 09:16 UTC",Thor DM-19 Delta | Echo 1,StatusRetired,0,Failure
+351,4264,4264,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sat Apr 16, 1960",Vostok | E-3 n†­3 (Luna-3),StatusRetired,0,Failure
+352,4266,4266,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Apr 15, 1960 15:06 UTC",Vostok | E-3 n†­2 (Luna-3),StatusRetired,0,Failure
+353,4270,4270,General Dynamics,"LC-14, Cape Canaveral AFS, Florida, USA","Fri Feb 26, 1960 17:25 UTC",Atlas-LV3 Agena-A | Midas 1,StatusRetired,0,Failure
+354,4271,4271,US Air Force,"SLC-1E (75-3-5), Vandenberg AFB, California, USA","Fri Feb 19, 1960 20:15 UTC",Thor-DM18 Agena-A | Discoverer 10,StatusRetired,0,Failure
+355,4272,4272,US Air Force,"SLC-1W (75-3-4), Vandenberg AFB, California, USA","Thu Feb 04, 1960 18:51 UTC",Thor-DM18 Agena-A | Discoverer 9,StatusRetired,0,Failure
+356,4273,4273,General Dynamics,"LC-14, Cape Canaveral AFS, Florida, USA","Thu Nov 26, 1959 07:26 UTC",Atlas-D Able | Pioneer P-3,StatusRetired,0,Failure
+357,4274,4274,US Air Force,"SLC-1E (75-3-5), Vandenberg AFB, California, USA","Fri Nov 20, 1959 19:25 UTC",Thor-DM18 Agena-A | Discoverer 8,StatusRetired,0,Failure
+358,4277,4277,US Navy,"LC-18A, Cape Canaveral AFS, Florida, USA","Fri Sep 18, 1959 05:20 UTC",Vanguard | Vanguard 3,StatusRetired,0,Partial Failure
+359,4278,4278,US Air Force,"SLC-17A, Cape Canaveral AFS, Florida, USA","Thu Sep 17, 1959 14:34 UTC",Thor DM-18 Able-II | Transit 1A,StatusRetired,0,Failure
+360,4280,4280,NASA,"LC-14, Cape Canaveral AFS, Florida, USA","Wed Sep 09, 1959 08:19 UTC",Atlas-D Mercury | Big Joe 1,StatusRetired,0,Partial Failure
+361,4284,4284,US Air Force,"SLC-1E (75-3-5), Vandenberg AFB, California, USA","Thu Jun 25, 1959 22:47 UTC",Thor-DM18 Agena-A | Discoverer 4,StatusRetired,0,Failure
+362,4285,4285,US Navy,"LC-18A, Cape Canaveral AFS, Florida, USA","Mon Jun 22, 1959 20:16 UTC",Vanguard | Vanguard SLV-6,StatusRetired,0,Failure
+363,4286,4286,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Thu Jun 18, 1959 08:08 UTC",Vostok | E-1A n†­1 (Luna-2),StatusRetired,0,Failure
+364,4287,4287,US Air Force,"SLC-1W (75-3-4), Vandenberg AFB, California, USA","Wed Jun 03, 1959 20:09 UTC",Thor-DM18 Agena-A | Discoverer 3,StatusRetired,0,Failure
+365,4288,4288,US Navy,"LC-18A, Cape Canaveral AFS, Florida, USA","Tue Apr 14, 1959 02:49 UTC",Vanguard | Vanguard SLV-5,StatusRetired,0,Failure
+366,4290,4290,US Air Force,"SLC-1W (75-3-4), Vandenberg AFB, California, USA","Sat Feb 28, 1959 21:49 UTC",Thor-DM18 Agena-A | Discoverer 1,StatusRetired,0,Failure
+367,4292,4292,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Fri Jan 02, 1959 16:41 UTC",Vostok | Luna-1,StatusRetired,0,Partial Failure
+368,4294,4294,AMBA,"LC-5, Cape Canaveral AFS, Florida, USA","Sat Dec 06, 1958 05:44 UTC",Juno II | Pioneer 3,StatusRetired,0,Partial Failure
+369,4295,4295,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Thu Dec 04, 1958 18:18 UTC",Vostok | E-1 n†­3 (Luna-1),StatusRetired,0,Failure
+370,4296,4296,NASA,"SLC-17A, Cape Canaveral AFS, Florida, USA","Sat Nov 08, 1958 07:30 UTC",Thor-DM 18 Able I | Pioneer 2,StatusRetired,0,Failure
+371,4297,4297,AMBA,"LC-5, Cape Canaveral AFS, Florida, USA","Thu Oct 23, 1958 03:21 UTC",Juno I | Beacon 1,StatusRetired,0,Failure
+372,4298,4298,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sat Oct 11, 1958 21:41 UTC",Vostok | E-1 n†­2 (Luna-1),StatusRetired,0,Failure
+373,4299,4299,NASA,"SLC-17A, Cape Canaveral AFS, Florida, USA","Sat Oct 11, 1958 08:42 UTC",Thor-DM 18 Able I | Pioneer 1,StatusRetired,0,Partial Failure
+374,4300,4300,US Navy,"LC-18A, Cape Canaveral AFS, Florida, USA","Fri Sep 26, 1958 15:38 UTC",Vanguard | Vanguard SLV-3,StatusRetired,0,Failure
+375,4301,4301,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Tue Sep 23, 1958 07:40 UTC",Vostok | E-1 n†­1 (Luna-1),StatusRetired,0,Failure
+376,4302,4302,US Navy,"Douglas F4D Skyray, Naval Air Station Point Mugu, California, USA","Fri Aug 29, 1958",NOTS-EV-1 Pilot II | Pilot-6 (R3,StatusRetired,0,Failure
+377,4303,4303,US Navy,"Douglas F4D Skyray, Naval Air Station Point Mugu, California, USA","Tue Aug 26, 1958",NOTS-EV-1 Pilot II | Pilot-5 (R2),StatusRetired,0,Failure
+378,4304,4304,US Navy,"Douglas F4D Skyray, Naval Air Station Point Mugu, California, USA","Mon Aug 25, 1958",NOTS-EV-1 Pilot II | Pilot-4 (R1),StatusRetired,0,Failure
+379,4305,4305,AMBA,"LC-5, Cape Canaveral AFS, Florida, USA","Sun Aug 24, 1958 06:17 UTC",Juno I | Explorer 5,StatusRetired,0,Failure
+380,4306,4306,US Navy,"Douglas F4D Skyray, Naval Air Station Point Mugu, California, USA","Fri Aug 22, 1958",NOTS-EV-1 Pilot II | Pilot-3 (D3),StatusRetired,0,Failure
+381,4307,4307,US Air Force,"SLC-17A, Cape Canaveral AFS, Florida, USA","Sun Aug 17, 1958 12:18 UTC",Thor-DM 18 Able I | Pioneer 0,StatusRetired,0,Failure
+382,4308,4308,US Navy,"Douglas F4D Skyray, Naval Air Station Point Mugu, California, USA","Tue Aug 12, 1958",NOTS-EV-1 Pilot II | Pilot-2 (D2),StatusRetired,0,Failure
+383,4310,4310,US Navy,"Douglas F4D Skyray, Naval Air Station Point Mugu, California, USA","Fri Jul 25, 1958",NOTS-EV-1 Pilot II | Pilot-1 (D1),StatusRetired,0,Failure
+384,4311,4311,US Navy,"LC-18A, Cape Canaveral AFS, Florida, USA","Thu Jun 26, 1958 05:00 UTC",Vanguard | Vanguard SLV-2,StatusRetired,0,Failure
+385,4312,4312,US Navy,"LC-18A, Cape Canaveral AFS, Florida, USA","Wed May 28, 1958 03:46 UTC",Vanguard | Vanguard SLV-1,StatusRetired,0,Failure
+386,4314,4314,US Navy,"LC-18A, Cape Canaveral AFS, Florida, USA","Mon Apr 28, 1958 02:53 UTC",Vanguard | Vanguard TV5,StatusRetired,0,Failure
+387,4315,4315,RVSN USSR,"Site 1/5, Baikonur Cosmodrome, Kazakhstan","Sun Apr 27, 1958 09:01 UTC",Sputnik 8A91 | Sputnik-3 #1,StatusRetired,0,Failure
+388,4318,4318,AMBA,"LC-26A, Cape Canaveral AFS, Florida, USA","Wed Mar 05, 1958 18:27 UTC",Juno I | Explorer 2,StatusRetired,0,Failure
+389,4319,4319,US Navy,"LC-18A, Cape Canaveral AFS, Florida, USA","Wed Feb 05, 1958 07:33 UTC",Vanguard | Vanguard TV3BU,StatusRetired,0,Failure
+390,4321,4321,US Navy,"LC-18A, Cape Canaveral AFS, Florida, USA","Fri Dec 06, 1957 16:44 UTC",Vanguard | Vanguard TV3,StatusRetired,0,Failure
